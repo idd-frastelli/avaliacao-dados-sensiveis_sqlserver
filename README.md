@@ -19,7 +19,7 @@ avaliacao-dados-sensiveis_sqlserver/
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/avaliacao-dados-sensiveis_sqlserver.git
+   git clone https://github.com/idd-frastelli/avaliacao-dados-sensiveis_sqlserver.git
    cd avaliacao-dados-sensiveis_sqlserver
 
 2. Instale as dependências:
