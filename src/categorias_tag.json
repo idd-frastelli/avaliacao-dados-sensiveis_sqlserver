@@ -1,0 +1,12 @@
+{
+    "PII": [
+        "nome", "sobrenome", "idade", "nascimento", "genero", "altura", "peso",
+        "nascionalidade", "naturalidade", "estadocivil", "cpf", "cnh", "ctps",
+        "cnpj", "passaporte", "endereco", "telefone", "email", "celular",
+        "escolaridade", "sexo", "contato"
+    ],
+    "BS": [
+        "banco", "agencia", "conta", "valor", "saldo", "vl_"
+    ]
+}
+
